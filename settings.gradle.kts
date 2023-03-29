@@ -1,1 +1,1 @@
-rootProject.name = "ktor-docker"
+rootProject.name = "ktor-docker-mysql"
